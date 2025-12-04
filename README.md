@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: React Native and C<br>🎯 Goals: Learn python and PHP<br>🌎 Advanced English level</p>
+<p align="left">🎓 Information Systems student at UFJF who loves coding, learning new tech, and turning ideas into cool projects.<br>📚 I'm currently learning: React Native and C<br>🎯 Goals: Learn python and PHP<br>🌎 Advanced English level</p>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">📧 Email: pedro.lau@estudante.ufjf.br<br>📷 Instagram: https://www.instagram.com/muniz_pedrojf/<br>💼 LinkedIn: https://www.linkedin.com/in/PedroMuniz10/</p>
+<p align="left">📷 Instagram: https://www.instagram.com/muniz_pedrojf/<br>📧 Email: pedro.lau@estudante.ufjf.br<br>💼 LinkedIn: https://www.linkedin.com/in/PedroMuniz10/</p>
 
 ###
