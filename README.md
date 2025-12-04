@@ -6,12 +6,6 @@
 
 <h1 align="left">Hi there! I'm Pedro, what's up? 👋👋</h1>
 
-###
-
-<p align="left">Information Systems student at UFJF who loves coding, learning new tech, and turning ideas into cool projects.</p>
-
-###
-
 <h2 align="left">🔥 About me</h2>
 
 ###
